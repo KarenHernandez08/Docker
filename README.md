@@ -16,7 +16,7 @@
 Para comenzar con nuestro primer proyecto vas a ir a [Play with Docker](https://labs.play-with-docker.com/)
 
 Donde vamos a:
--Iniciar sesión, en caso de no tener, vamos a crear un nuevo usuario
+- Iniciar sesión, en caso de no tener, vamos a crear un nuevo usuario
 - Añadimos una nueva instancia
 
 En la terminal escribiremos el siguiente comando para crear nuestra ballenita Docker
