@@ -6,8 +6,8 @@
  ### Contenidos
 - [Introduccion a Docker](https://github.com/KarenHernandez08/Docker#introducci%C3%B3n-a-docker)
 - [Instalación Docker]()
- ..* [Instalación Docker en Linux]()
- ..* [Instalación Docker en windows]()
+   - [Instalación Docker en Linux]()
+   - [Instalación Docker en windows]()
 - [Primera Imagen]()
 
 ## Introducción a Docker
