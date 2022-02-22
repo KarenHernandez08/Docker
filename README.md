@@ -28,7 +28,7 @@ Nota
 
 Asi se mostrara nuestra ballena con Play with Docker
 
-![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/version.PNG)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/dockerweb.PNG)
 
 
 
@@ -69,7 +69,7 @@ su - ${USER}
 
 ```
 Por ejemplo yo tengo instalada la version `20.10.7`
-![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/Docker.png)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/version.png)
 
 ### Instalación Docker en Windows
 
