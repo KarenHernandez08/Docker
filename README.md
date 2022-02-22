@@ -69,7 +69,7 @@ su - ${USER}
 
 ```
 Por ejemplo yo tengo instalada la version `20.10.7`
-![](https://github.com/KarenHernandez08/blob/main/imagenes/version.png)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/Docker.png)
 
 ### Instalación Docker en Windows
 
