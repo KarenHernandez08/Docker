@@ -26,11 +26,50 @@ $ docker run docker/whalesay cowsay boo
 Nota
 > En el comando anterior, boo puede ser cambiado por cualquier otro texto
 
+Asi se mostrara nuestra ballena con Play with Docker
+
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/dockerweb.png)
 
 
 
 ## Instalación a Docker
-### Instalación Docker en Linux
+### Instalación Docker en Linux 
+ En mi caso la instalación de docker fue en la terminal con los siguientes comandos
+``` 
+sudo apt update
+
+sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
+
+curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+sudo add-apt-repository \"deb [arch=arm64] https://download.docker.com/linux/ubuntu \$(lsb_release -cs) \stable"
+
+sudo apt update
+
+sudo apt-get update
+
+sudo apt-get install docker-ce docker-ce-cli containerd.io
+
+sudo apt-get install docker-ce
+
+sudo apt  install docker.io 
+
+sudo snap install docker
+
+sudo usermod -aG docker ${USER}
+
+su - ${USER}
+ 
+ ```
+ 
+ Verificamos que se installo, viendo la versión de docker que tenemos
+ 
+  ```
+  docker --version
+
+```
+Por ejemplo yo tengo instalada la version `20.10.7`
+![](https://github.com/KarenHernandez08/blob/main/imagenes/version.png)
 
 ### Instalación Docker en Windows
 
