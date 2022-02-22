@@ -28,7 +28,7 @@ Nota
 
 Asi se mostrara nuestra ballena con Play with Docker
 
-![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/dockerweb.png)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/version.PNG)
 
 
 
