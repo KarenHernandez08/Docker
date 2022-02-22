@@ -2,6 +2,8 @@
 
 `Docker` es una plataforma de software que permite crear e implementar aplicaciones rapidamente, `Docker` empaqueta siftware en unidades estandarizadas llamadas contenedores que incluyen todo lo necesario para que el software se ejecute incluyendo bibliotecas, como librerias, herramientas de sistema, código y tiempo de ejecución.
 
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/Docker.png)
+
 
  ### Contenidos
 - [Introduccion a Docker](https://github.com/KarenHernandez08/Docker#introducci%C3%B3n-a-docker)
