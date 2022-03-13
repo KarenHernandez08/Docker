@@ -74,3 +74,19 @@ Por ejemplo yo tengo instalada la version `20.10.7`
 ### Instalación Docker en Windows
 
 ## Primera imagen
+Para realizar este ejercicio me ayudo el ver este [video](https://www.youtube.com/watch?v=-733YUqd2sM&ab_channel=FaztCode)
+
+clonamos el siguiente repositorio en nuestra terminal 
+'''
+git clone https://github.com/dockersamples/node-nulletin-board
+
+'''
+
+Lo demas esta dentro de las imagenes siguientes de la consola y al finalizar nuestra imagen corriendo 
+
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image.PNG)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image%201.PNG)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image2.PNG)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image%203.PNG)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image%204.PNG)
+![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image%205.PNG)
