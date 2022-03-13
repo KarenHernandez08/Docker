@@ -77,10 +77,11 @@ Por ejemplo yo tengo instalada la version `20.10.7`
 Para realizar este ejercicio me ayudo el ver este [video](https://www.youtube.com/watch?v=-733YUqd2sM&ab_channel=FaztCode)
 
 clonamos el siguiente repositorio en nuestra terminal 
-'''
+
+```
 git clone https://github.com/dockersamples/node-nulletin-board
 
-'''
+```
 
 Lo demas esta dentro de las imagenes siguientes de la consola y al finalizar nuestra imagen corriendo 
 
