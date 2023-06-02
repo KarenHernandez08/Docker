@@ -1,15 +1,18 @@
 # Docker
 
+[Complemento de información](https://github/KarenHernandez08/Docker)
+
 `Docker` es una plataforma de software que permite crear e implementar aplicaciones rapidamente, `Docker` empaqueta siftware en unidades estandarizadas llamadas contenedores que incluyen todo lo necesario para que el software se ejecute incluyendo bibliotecas, como librerias, herramientas de sistema, código y tiempo de ejecución.
 
-![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/Docker.png)
+![imagen de el logo de docker](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/Docker.png)
 
 
- ### Contenidos
+### Contenidos
+
 - [Introduccion a Docker](https://github.com/KarenHernandez08/Docker#introducci%C3%B3n-a-docker)
 - [Instalación Docker](https://github.com/KarenHernandez08/Docker#instalaci%C3%B3n-a-docker)
-   - [Instalación Docker en Linux](https://github.com/KarenHernandez08/Docker#instalaci%C3%B3n-docker-en-linux)
-   - [Instalación Docker en windows](https://github.com/KarenHernandez08/Docker#instalaci%C3%B3n-docker-en-windows)
+- [Instalación Docker en Linux](https://github.com/KarenHernandez08/Docker#instalaci%C3%B3n-docker-en-linux)
+- [Instalación Docker en windows](https://github.com/KarenHernandez08/Docker#instalaci%C3%B3n-docker-en-windows)
 - [Primera Imagen](https://github.com/KarenHernandez08/Docker#primera-imagen)
 
 ## Introducción a Docker
@@ -91,3 +94,7 @@ Lo demas esta dentro de las imagenes siguientes de la consola y al finalizar nue
 ![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image%203.PNG)
 ![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image%204.PNG)
 ![](https://github.com/KarenHernandez08/Docker/blob/main/imagenes/docker%20image%205.PNG)
+
+---
+
+# DOCKER
