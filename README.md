@@ -1,6 +1,6 @@
 # Docker
 
-[Complemento de información](https://github/KarenHernandez08/Docker)
+[Curso](https://github/KarenHernandez08/Docker)
 
 `Docker` es una plataforma de software que permite crear e implementar aplicaciones rapidamente, `Docker` empaqueta siftware en unidades estandarizadas llamadas contenedores que incluyen todo lo necesario para que el software se ejecute incluyendo bibliotecas, como librerias, herramientas de sistema, código y tiempo de ejecución.
 
@@ -81,7 +81,8 @@ Para realizar este ejercicio me ayudo el ver este [video](https://www.youtube.co
 
 clonamos el siguiente repositorio en nuestra terminal 
 
-```
+```git
+
 git clone https://github.com/dockersamples/node-nulletin-board
 
 ```
@@ -98,3 +99,21 @@ Lo demas esta dentro de las imagenes siguientes de la consola y al finalizar nue
 ---
 
 # DOCKER
+
+Docker es una plataforma de software que nos permite crear y probar aplicaciones rapidamente a través de docker.
+
+`Contenedor` lugar que sirve para almacenar algo.
+
+Docker funciona a través de una arquitectura cliente-servidor
+
+descargar docker desde el siguiente enlace https://docs.docker.com/get-docker/
+
+Para verificar que tenemos docker instalado colocamos en nuetra terminal `docker --version`
+
+Si colocamos `docker` en la terminal se nos desplegan todos los comandos disponibles de docker.
+
+`docker image` comando que nos va a ayudar para nuestras imagenes
+
+`docker image pull <NombredeImagen>` para descargar las imagenes de docker 
+
+### Hola Mundo en docker
